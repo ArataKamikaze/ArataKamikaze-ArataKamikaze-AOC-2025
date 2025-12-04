@@ -1,5 +1,5 @@
 sum = 0
-length = 2
+length = 12
 
 def getMaxNum(string, min, max):
     maxNum = 0
