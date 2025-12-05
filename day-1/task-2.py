@@ -4,7 +4,7 @@ old_dial = dial
 counter = 0
 i = 0
 try:
-    with open('input.txt', 'r') as input:
+    with open('dayOne.txt', 'r') as input:
         for line in input.readlines():
             i+=1
             old_dial = dial
